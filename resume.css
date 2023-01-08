@@ -53,6 +53,20 @@ a:hover {
   text-decoration: none; 
 }
 
+header.relative {
+  position: relative;
+  width: 400px;
+  height: 200px;
+}
+
+photo.absolute {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+}
+
 #body {
   margin-right: 3em; 
   margin-left: 3em;
