@@ -18,7 +18,7 @@ body {
   margin-bottom: 0;
   margin-right: 3em; 
   margin-left: 3em;
-  padding-bottom:1.5em;
+  padding-bottom: 1.5em;
 }
 
 h1.name {
@@ -70,6 +70,7 @@ photo.absolute {
 #body {
   margin-right: 3em; 
   margin-left: 3em;
+  padding-bottom: 1.5em;
 }
 
 .school {
