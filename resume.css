@@ -46,3 +46,16 @@ h3.contact {
 h4.contact {
   font-size: 122%;
 }
+
+a { 
+  color: #990003; 
+}
+
+a:hover { 
+  text-decoration: none; 
+}
+
+li { 
+  line-height: 24px; 
+  border-bottom: 1px solid #737373; 
+}
