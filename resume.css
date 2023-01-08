@@ -23,6 +23,11 @@ body {
   width: 50%;
 }
 
+.name {
+  float: right;
+  width: 75%;
+}
+
 h1.name {
   text-align: right;
   font-size: 48px;
@@ -31,10 +36,23 @@ h1.name {
 }
 
 h2.name {
+  text-align: right;
+  font-size: 152%;
   text-transform: uppercase;
   letter-spacing: 2px;
   border-style: none none solid none;
   border-color: #737373;
 }
 
+.contact {
+  float: left;
+  width: 25%;
+}
 
+h3.contact {
+  font-size: 122%;
+}
+
+h4.contact {
+  font-size: 122%;
+}
