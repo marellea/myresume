@@ -46,21 +46,16 @@ h4 {
 }
 
 a { 
-  color: #990003; 
+  color: #272828; 
 }
 
 a:hover { 
   text-decoration: none; 
 }
 
-
 #body {
   margin-right: 3em; 
   margin-left: 3em;
-}
-
-li { 
-  line-height: 24px;
 }
 
 .school {
