@@ -19,7 +19,6 @@ body {
   margin-right: 3em; 
   margin-left: 0;
   padding-bottom:1.5em;
-  border-bottom: 1px solid #737373;
 }
 
 h1.name {
@@ -32,6 +31,8 @@ h1.name {
 h2.name {
   text-transform: uppercase;
   letter-spacing: 2px;
+  border-style: none none solid none;
+  border-color: #737373;
 }
 
 
