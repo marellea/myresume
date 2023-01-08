@@ -80,7 +80,15 @@ photo.absolute {
   padding-bottom: 1.5em;
 }
 
-.section {
+.sectiona {
+  position: relative;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-style: solid none double none;
+  border-color: #737373;
+}
+
+.sectionb {
   position: relative;
   margin-bottom: 1em;
   padding-bottom: 1em;
