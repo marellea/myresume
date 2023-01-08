@@ -5,12 +5,18 @@ body {
 }
 
 #page {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 100px;
-  margin-left: 100px;
-  padding: 30px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 80px;
+  margin-left: 80px;
+  padding: 10px;
   background: #FFFFFF;
   color: #272828;
   font-family: Georgia;
+}
+
+#hd {
+  margin:2.5em 0 3em 0;
+  padding-bottom:1.5em;
+  border-bottom: 1px solid #cc
 }
