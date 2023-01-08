@@ -37,11 +37,11 @@ h2.name {
   border-color: #737373;
 }
 
-h3.contact {
+h3 {
   font-size: 122%;
 }
 
-h4.contact {
+h4 {
   font-size: 122%;
 }
 
@@ -75,4 +75,16 @@ h4.school {
   position: absolute;
   top: 0.35em;
   right: 0;
+}
+
+h5 {
+  font-size: 100%;
+}
+
+h6 {
+  font-size: 80%;
+}
+
+h7 {
+  font-size: 60%;
 }
