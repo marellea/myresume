@@ -11,7 +11,7 @@ body {
   background: #F5F5F5;
   color: #272828;
   font-family: Helvetica;
-  line-height: 0.8;
+  line-height: 1.25;
 }
 
 #header {
@@ -78,6 +78,14 @@ photo.absolute {
   margin-right: 3em; 
   margin-left: 3em;
   padding-bottom: 1.5em;
+}
+
+.section {
+  position: relative;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-style: none none solid none;
+  border-color: #737373;
 }
 
 .school {
