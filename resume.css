@@ -22,6 +22,10 @@ body {
   padding-bottom: 1.5em;
 }
 
+.photo {
+  float: left;
+}
+
 h1.name {
   text-align: right;
   font-size: 48px;
